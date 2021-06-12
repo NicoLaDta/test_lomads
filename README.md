@@ -36,7 +36,6 @@ and the events proposed by them)
 - Feel free to add any other functionalities if you want
 - Implement the assignment using any language or framework you feel
 comfortable with (Lomads is a Mobile first app)
-Utilisation pour le front de react js dans le dossier [client](./client/)
 
 ## <a name="usage"> Utilisation
 ### Front-End sous reactjs dans le folder [client](./client/)
