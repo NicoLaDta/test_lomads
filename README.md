@@ -42,6 +42,6 @@ Utilisation pour le front de react js dans le dossier [client](./client/)
 Front-End sous reactjs dans le folder [client](./client/)
 - Utiliser la commande npm i pour installer tout les packages
 - Utiliser la commande npm start pour lancer le server
- Back-end sous nodejs graphql dans le folder [server](./server)
+Back-end sous nodejs graphql dans le folder [server](./server)
 - Utiliser la commande npm i pour installer tout les packages
 - Utiliser la commande npm start pour lancer le server
