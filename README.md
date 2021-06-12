@@ -26,11 +26,11 @@ and drop template where the user can move the blocks as
 needed or add new blocks to customize the page
 
 o Event Page (or tab)
- Create Event
- Use any form layout with fields of your choice
- Both for paid and free events
- Modify/edit/delete event
- List of the events proposed/created (choose your layout)
+- Create Event
+- Use any form layout with fields of your choice
+- Both for paid and free events
+- Modify/edit/delete event
+- List of the events proposed/created (choose your layout)
 - Once the profile is created it should show up on the home page (creator profile
 and the events proposed by them)
 - Feel free to add any other functionalities if you want
@@ -40,8 +40,8 @@ Utilisation pour le front de react js dans le dossier [client](./client/)
 
 ## <a name="usage"> Utilisation
 Front-End sous reactjs dans le folder [client](./client/)
-  - Utiliser la commande npm i pour installer tout les packages
-  - Utiliser la commande npm start pour lancer le server
-Back-end sous nodejs graphql dans le folder [server](./server)
-  - Utiliser la commande npm i pour installer tout les packages
-  - Utiliser la commande npm start pour lancer le server
+- Utiliser la commande npm i pour installer tout les packages
+- Utiliser la commande npm start pour lancer le server
+ Back-end sous nodejs graphql dans le folder [server](./server)
+- Utiliser la commande npm i pour installer tout les packages
+- Utiliser la commande npm start pour lancer le server
