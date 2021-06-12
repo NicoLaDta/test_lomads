@@ -17,11 +17,11 @@ clicking on the event shows the details and the possibility to register for the
 event
 - Once the user clicks on Sign Up to become a partner they will have:
 o Customizable profile page (or tab)
- Personal Information (Name/Age/Description etc.)
- Photos and Videos
- Any other thing that you think will be interesting to add to an
+- Personal Information (Name/Age/Description etc.)
+- Photos and Videos
+- Any other thing that you think will be interesting to add to an
 event creator profile page
- The layout of the page can be fixed but extra point if it is a drag
+- The layout of the page can be fixed but extra point if it is a drag
 and drop template where the user can move the blocks as
 needed or add new blocks to customize the page
 
